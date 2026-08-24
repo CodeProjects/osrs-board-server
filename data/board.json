@@ -1,0 +1,802 @@
+[
+  {
+    "tile_number": 1,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 38",
+    "type": "ladder",
+    "target": 38
+  },
+  {
+    "tile_number": 2,
+    "task": "Twinflame Staff (or piece)",
+    "clean_task": "Twinflame Staff (or piece)",
+    "description": "Only one crown piece required",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 3,
+    "task": "Get a legendary foil card",
+    "clean_task": "Get a legendary foil card",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 4,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 14",
+    "type": "ladder",
+    "target": 14
+  },
+  {
+    "tile_number": 5,
+    "task": "DK Ring",
+    "clean_task": "DK Ring",
+    "description": "No Berserker/Warrior ring",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 6,
+    "task": "Tormented synapse",
+    "clean_task": "Tormented synapse",
+    "description": "2x requested.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 7,
+    "task": "Tool upgrade",
+    "clean_task": "Tool upgrade",
+    "description": "Fletching Knife, Jeweler's Chisel, Pearl fishing rod, Gricoller's can, Crystal tool seed.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 8,
+    "task": "Master Clue Unique",
+    "clean_task": "Master Clue Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 9,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 31",
+    "type": "ladder",
+    "target": 31
+  },
+  {
+    "tile_number": 10,
+    "task": "12k demon tears",
+    "clean_task": "12k demon tears",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 11,
+    "task": "Any Zulrah unique",
+    "clean_task": "Any Zulrah unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 12,
+    "task": "Zamorakian spear",
+    "clean_task": "Zamorakian spear",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 13,
+    "task": "Mastering Mixology Unique",
+    "clean_task": "Mastering Mixology Unique",
+    "description": "Prescription goggles, Reagent pouch, Chugging barrel, Alchemist's amulet.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 14,
+    "task": "Ectoplasmator",
+    "clean_task": "Ectoplasmator",
+    "description": "250 Zeal Tokens",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 15,
+    "task": "Araxxor unique",
+    "clean_task": "Araxxor unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 16,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 6",
+    "type": "chute",
+    "target": 6
+  },
+  {
+    "tile_number": 17,
+    "task": "Armour from Castle Wars",
+    "clean_task": "Armour from Castle Wars",
+    "description": "Everyone gets 1 piece",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 18,
+    "task": "Earth tome (Tome of earth)",
+    "clean_task": "Earth tome (Tome of earth)",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 19,
+    "task": "Twinflame Staff (or piece) (2)",
+    "clean_task": "Twinflame Staff (or piece)",
+    "description": "Only one crown piece required",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 20,
+    "task": "10 rounds of Barbarian Assault",
+    "clean_task": "10 rounds of Barbarian Assault",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 21,
+    "task": "Magic fang",
+    "clean_task": "Magic fang",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 22,
+    "task": "Expert mining gloves",
+    "clean_task": "Expert mining gloves",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 23,
+    "task": "Dark claw",
+    "clean_task": "Dark claw",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 24,
+    "task": "Greenlogged Pest Control",
+    "clean_task": "Greenlogged Pest Control",
+    "description": "Every player completes the full Pest Control collection log",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 25,
+    "task": "Full barronite mace",
+    "clean_task": "Full barronite mace",
+    "description": "Requires mining, fishing, and killing golems (three separate parts).",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 26,
+    "task": "Eternal crystal",
+    "clean_task": "Eternal crystal",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 27,
+    "task": "Master Clue Unique (2)",
+    "clean_task": "Master Clue Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 28,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 85",
+    "type": "ladder",
+    "target": 85
+  },
+  {
+    "tile_number": 29,
+    "task": "Tool upgrade (2)",
+    "clean_task": "Tool upgrade",
+    "description": "Fletching Knife, Jeweler's Chisel, Pearl fishing rod, Gricoller's can, Crystal tool seed.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 30,
+    "task": "Tormented synapse (2)",
+    "clean_task": "Tormented synapse",
+    "description": "2x requested.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 31,
+    "task": "DK Ring (2)",
+    "clean_task": "DK Ring",
+    "description": "No Berserker/Warrior ring",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 32,
+    "task": "Get a legendary foil card (2)",
+    "clean_task": "Get a legendary foil card",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 33,
+    "task": "Twinflame Staff (or piece) (3)",
+    "clean_task": "Twinflame Staff (or piece)",
+    "description": "Only one crown piece required",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 34,
+    "task": "Any Tob Unique",
+    "clean_task": "Any Tob Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 35,
+    "task": "Venator shard 2x",
+    "clean_task": "Venator shard 2x",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 36,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 44",
+    "type": "ladder",
+    "target": 44
+  },
+  {
+    "tile_number": 37,
+    "task": "Any Toa Unique",
+    "clean_task": "Any Toa Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 38,
+    "task": "Oathplate armour",
+    "clean_task": "Oathplate armour",
+    "description": "Any of three pieces (helm, shirt, pants)",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 39,
+    "task": "Pegasian/Primordial crystal or Jar",
+    "clean_task": "Pegasian/Primordial crystal",
+    "description": "Eternal crystal / Smoldering Stone do NOT count",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 40,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 42",
+    "type": "ladder",
+    "target": 42
+  },
+  {
+    "tile_number": 41,
+    "task": "Armadyl crossbow / Saradomin hilt",
+    "clean_task": "Armadyl crossbow / Saradomin hilt",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 42,
+    "task": "Any Cox Unique",
+    "clean_task": "Any Cox Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 43,
+    "task": "99 in a skill",
+    "clean_task": "99 in a skill",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 44,
+    "task": "Any piece of Armadyl equipment",
+    "clean_task": "Any piece of Armadyl equipment",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 45,
+    "task": "Kq head",
+    "clean_task": "Kq head",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 46,
+    "task": "Any Voidwaker piece",
+    "clean_task": "Any Voidwaker piece",
+    "description": "Voidwaker blade/hilt/gem.",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 47,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 26",
+    "type": "chute",
+    "target": 26
+  },
+  {
+    "tile_number": 48,
+    "task": "Full Blood Moon set",
+    "clean_task": "Full Blood Moon set",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 49,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 11",
+    "type": "chute",
+    "target": 11
+  },
+  {
+    "tile_number": 50,
+    "task": "Crystal tool seed",
+    "clean_task": "Crystal tool seed",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 51,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 67",
+    "type": "ladder",
+    "target": 67
+  },
+  {
+    "tile_number": 52,
+    "task": "Draconic visage",
+    "clean_task": "Draconic visage",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 53,
+    "task": "99 in a skill (2)",
+    "clean_task": "99 in a skill",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 54,
+    "task": "Armadyl crossbow / Saradomin hilt (2)",
+    "clean_task": "Armadyl crossbow / Saradomin hilt",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 55,
+    "task": "Oathplate armour (2)",
+    "clean_task": "Oathplate armour",
+    "description": "Any of three pieces (helm, shirt, pants)",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 56,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 53",
+    "type": "chute",
+    "target": 53
+  },
+  {
+    "tile_number": 57,
+    "task": "Venator shard 2x (2)",
+    "clean_task": "Venator shard 2x",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 58,
+    "task": "Any Tob Unique (2)",
+    "clean_task": "Any Tob Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 59,
+    "task": "Any Toa Unique (2)",
+    "clean_task": "Any Toa Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 60,
+    "task": "Pegasian/Primordial crystal or Jar (2)",
+    "clean_task": "Pegasian/Primordial crystal or Jar",
+    "description": "Eternal crystal / Smoldering Stone do NOT count",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 61,
+    "task": "Any Cox Unique (2)",
+    "clean_task": "Any Cox Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 62,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 19",
+    "type": "chute",
+    "target": 19
+  },
+  {
+    "tile_number": 63,
+    "task": "Any Doom Unique",
+    "clean_task": "Any Doom Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 64,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 60",
+    "type": "chute",
+    "target": 60
+  },
+  {
+    "tile_number": 65,
+    "task": "Venenatis fangs",
+    "clean_task": "Venenatis fangs",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 66,
+    "task": "Sailing clogs",
+    "clean_task": "Sailing clogs",
+    "description": "eye / pet pref",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 67,
+    "task": "Ancient boots",
+    "clean_task": "Ancient boots",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 68,
+    "task": "Any champion's scroll",
+    "clean_task": "Any champion's scroll",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 69,
+    "task": "Any piece of Armadyl equipment (2)",
+    "clean_task": "Any piece of Armadyl equipment",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 70,
+    "task": "99 in a skill (3)",
+    "clean_task": "99 in a skill",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 71,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 91",
+    "type": "ladder",
+    "target": 91
+  },
+  {
+    "tile_number": 72,
+    "task": "Any Cox Unique (3)",
+    "clean_task": "Any Cox Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 73,
+    "task": "Armadyl crossbow / Saradomin hilt (3)",
+    "clean_task": "Armadyl crossbow / Saradomin hilt",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 74,
+    "task": "Pegasian/Primordial crystal or Jar (3)",
+    "clean_task": "Pegasian/Primordial crystal or Jar",
+    "description": "Eternal crystal / Smoldering Stone do NOT count",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 75,
+    "task": "Oathplate armour (3)",
+    "clean_task": "Oathplate armour",
+    "description": "Any of three pieces (helm, shirt, pants)",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 76,
+    "task": "Any Toa Unique (3)",
+    "clean_task": "Any Toa Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 77,
+    "task": "Ladder",
+    "clean_task": "Ladder",
+    "description": "Go to 97",
+    "type": "ladder",
+    "target": 97
+  },
+  {
+    "tile_number": 78,
+    "task": "Any Tob Unique (3)",
+    "clean_task": "Any Tob Unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 79,
+    "task": "2 Nex uniques",
+    "clean_task": "2 Nex uniques",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 80,
+    "task": "Venator shard 2x (3)",
+    "clean_task": "Venator shard 2x",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 81,
+    "task": "Any non-Zulrah pet",
+    "clean_task": "Any non-Zulrah pet",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 82,
+    "task": "Venator ring",
+    "clean_task": "Venator ring",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 83,
+    "task": "Quiver (Dizana's quiver)",
+    "clean_task": "Quiver (Dizana's quiver)",
+    "description": "Eric is banned",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 84,
+    "task": "Inquisitor's armour piece",
+    "clean_task": "Inquisitor's armour piece",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 85,
+    "task": "Black tourmaline core",
+    "clean_task": "Black tourmaline core",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 86,
+    "task": "Ranger boots",
+    "clean_task": "Ranger boots",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 87,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 24",
+    "type": "chute",
+    "target": 24
+  },
+  {
+    "tile_number": 88,
+    "task": "Hydra claw",
+    "clean_task": "Hydra claw",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 89,
+    "task": "Crimson kisten",
+    "clean_task": "Crimson kisten",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 90,
+    "task": "Ring of Endurance",
+    "clean_task": "Ring of Endurance",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 91,
+    "task": "Imbued heart",
+    "clean_task": "Imbued heart",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 92,
+    "task": "Any DT2 unique",
+    "clean_task": "Any DT2 unique",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 93,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 73",
+    "type": "chute",
+    "target": 73
+  },
+  {
+    "tile_number": 94,
+    "task": "Dragonbone necklace",
+    "clean_task": "Dragonbone necklace",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 95,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 75",
+    "type": "chute",
+    "target": 75
+  },
+  {
+    "tile_number": 96,
+    "task": "Any Soulreaper axe piece",
+    "clean_task": "Any Soulreaper axe piece",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 97,
+    "task": "Any revenant weapon",
+    "clean_task": "Any revenant weapon",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 98,
+    "task": "Chute",
+    "clean_task": "Chute",
+    "description": "Go to 78",
+    "type": "chute",
+    "target": 78
+  },
+  {
+    "tile_number": 99,
+    "task": "Stale baguette",
+    "clean_task": "Stale baguette",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 100,
+    "task": "Infernal cape",
+    "clean_task": "Infernal cape",
+    "description": "Eric must get gm speedrunner time",
+    "type": "normal",
+    "target": null
+  }
+]
