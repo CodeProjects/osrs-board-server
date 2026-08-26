@@ -17,8 +17,8 @@
   },
   {
     "tile_number": 3,
-    "task": "Get a legendary foil card",
-    "clean_task": "Get a legendary foil card",
+    "task": "Earth tome (Tome of earth)",
+    "clean_task": "Earth tome (Tome of earth)",
     "description": "",
     "type": "normal",
     "target": null
@@ -106,7 +106,7 @@
   {
     "tile_number": 14,
     "task": "Ectoplasmator",
-    "clean_task": "Ectoplasmator",
+    "clean_task": "Ecto-plasmator",
     "description": "250 Zeal Tokens",
     "type": "normal",
     "target": null
@@ -137,14 +137,6 @@
   },
   {
     "tile_number": 18,
-    "task": "Earth tome (Tome of earth)",
-    "clean_task": "Earth tome (Tome of earth)",
-    "description": "",
-    "type": "normal",
-    "target": null
-  },
-  {
-    "tile_number": 19,
     "task": "Twinflame Staff (or piece) (2)",
     "clean_task": "Twinflame Staff (or piece)",
     "description": "Only one crown piece required",
@@ -152,10 +144,18 @@
     "target": null
   },
   {
-    "tile_number": 20,
-    "task": "10 rounds of Barbarian Assault",
-    "clean_task": "10 rounds of Barbarian Assault",
+    "tile_number": 19,
+    "task": "Get a legendary foil card",
+    "clean_task": "Get a legendary foil card",
     "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
+    "tile_number": 20,
+    "task": "Greenlogged Pest Control",
+    "clean_task": "Greenlogged Pest Control",
+    "description": "Every player completes the full Pest Control collection log",
     "type": "normal",
     "target": null
   },
@@ -185,9 +185,9 @@
   },
   {
     "tile_number": 24,
-    "task": "Greenlogged Pest Control",
-    "clean_task": "Greenlogged Pest Control",
-    "description": "Every player completes the full Pest Control collection log",
+    "task": "10 rounds of Barbarian Assault",
+    "clean_task": "Barbarian Assault",
+    "description": "",
     "type": "normal",
     "target": null
   },
@@ -265,8 +265,8 @@
   },
   {
     "tile_number": 34,
-    "task": "Any Tob Unique",
-    "clean_task": "Any Tob Unique",
+    "task": "Any Barrows Unique",
+    "clean_task": "Any Barrows Unique",
     "description": "",
     "type": "normal",
     "target": null
@@ -321,14 +321,6 @@
   },
   {
     "tile_number": 41,
-    "task": "Armadyl crossbow / Saradomin hilt",
-    "clean_task": "Armadyl crossbow / Saradomin hilt",
-    "description": "",
-    "type": "normal",
-    "target": null
-  },
-  {
-    "tile_number": 42,
     "task": "Any Cox Unique",
     "clean_task": "Any Cox Unique",
     "description": "",
@@ -336,9 +328,17 @@
     "target": null
   },
   {
+    "tile_number": 42,
+    "task": "Armadyl crossbow ",
+    "clean_task": "Armadyl crossbow or Sara hilt",
+    "description": "",
+    "type": "normal",
+    "target": null
+  },
+  {
     "tile_number": 43,
-    "task": "99 in a skill",
-    "clean_task": "99 in a skill",
+    "task": "Chromium ingot",
+    "clean_task": "Chromium ingot",
     "description": "",
     "type": "normal",
     "target": null
@@ -417,25 +417,25 @@
   },
   {
     "tile_number": 53,
-    "task": "99 in a skill (2)",
-    "clean_task": "99 in a skill",
+    "task": "Chromium ingot",
+    "clean_task": "Chromium ingot",
     "description": "",
     "type": "normal",
     "target": null
   },
   {
     "tile_number": 54,
-    "task": "Armadyl crossbow / Saradomin hilt (2)",
-    "clean_task": "Armadyl crossbow / Saradomin hilt",
+    "task": "Armadyl crossbow (2)",
+    "clean_task": "Armadyl crossbow or Sara hilt",
     "description": "",
     "type": "normal",
     "target": null
   },
   {
     "tile_number": 55,
-    "task": "Oathplate armour (2)",
-    "clean_task": "Oathplate armour",
-    "description": "Any of three pieces (helm, shirt, pants)",
+    "task": "2 Nex uniques",
+    "clean_task": "2 Nex uniques",
+    "description": "",
     "type": "normal",
     "target": null
   },
@@ -457,7 +457,7 @@
   },
   {
     "tile_number": 58,
-    "task": "Any Tob Unique (2)",
+    "task": "Any Tob Unique",
     "clean_task": "Any Tob Unique",
     "description": "",
     "type": "normal",
@@ -474,8 +474,8 @@
   {
     "tile_number": 60,
     "task": "Pegasian/Primordial crystal or Jar (2)",
-    "clean_task": "Pegasian/Primordial crystal or Jar",
-    "description": "Eternal crystal / Smoldering Stone do NOT count",
+    "clean_task": "Pegasian/Primordial crystal",
+    "description": "Pegasian/Primordial crystal or Jar - Eternal crystal / Smoldering Stone do NOT count",
     "type": "normal",
     "target": null
   },
@@ -553,7 +553,7 @@
   },
   {
     "tile_number": 70,
-    "task": "99 in a skill (3)",
+    "task": "99 in a skill",
     "clean_task": "99 in a skill",
     "description": "",
     "type": "normal",
@@ -577,8 +577,8 @@
   },
   {
     "tile_number": 73,
-    "task": "Armadyl crossbow / Saradomin hilt (3)",
-    "clean_task": "Armadyl crossbow / Saradomin hilt",
+    "task": "Armadyl crossbow (3)",
+    "clean_task": "Armadyl crossbow or Sara hilt",
     "description": "",
     "type": "normal",
     "target": null
@@ -586,14 +586,14 @@
   {
     "tile_number": 74,
     "task": "Pegasian/Primordial crystal or Jar (3)",
-    "clean_task": "Pegasian/Primordial crystal or Jar",
+    "clean_task": "Pegasian/Primordial crystal",
     "description": "Eternal crystal / Smoldering Stone do NOT count",
     "type": "normal",
     "target": null
   },
   {
     "tile_number": 75,
-    "task": "Oathplate armour (3)",
+    "task": "Oathplate armour (2)",
     "clean_task": "Oathplate armour",
     "description": "Any of three pieces (helm, shirt, pants)",
     "type": "normal",
@@ -617,7 +617,7 @@
   },
   {
     "tile_number": 78,
-    "task": "Any Tob Unique (3)",
+    "task": "Any Tob Unique (2)",
     "clean_task": "Any Tob Unique",
     "description": "",
     "type": "normal",

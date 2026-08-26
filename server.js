@@ -44,6 +44,39 @@ app.post("/api/game/roll", async (_req, res, next) => {
   }
 });
 
+app.post("/api/game/set", async (req, res, next) => {
+  try {
+    const board = await loadBoard();
+    const goal = board.width * board.height + 1;
+    const { tokenPosition, lastRoll } = req.body ?? {};
+
+    if (
+      !Number.isInteger(tokenPosition) ||
+      tokenPosition < 0 ||
+      tokenPosition > goal
+    ) {
+      return res.status(400).json({
+        error: `tokenPosition must be an integer between 0 and ${goal}`,
+      });
+    }
+
+    const resolvedRoll = lastRoll === undefined ? 6 : lastRoll;
+    if (!Number.isInteger(resolvedRoll) || resolvedRoll < 1 || resolvedRoll > 6) {
+      return res
+        .status(400)
+        .json({ error: "lastRoll must be an integer between 1 and 6" });
+    }
+
+    const nextState = await writeState({
+      tokenPosition,
+      lastRoll: resolvedRoll,
+    });
+    res.json(nextState);
+  } catch (err) {
+    next(err);
+  }
+});
+
 app.post("/api/game/reset", async (_req, res, next) => {
   try {
     const nextState = await writeState({ tokenPosition: 0, lastRoll: null });
